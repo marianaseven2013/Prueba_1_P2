@@ -1,0 +1,22 @@
+header {
+    width: 100%;
+    margin: auto;
+    height: 8rem;
+    border-bottom: 1px solid gray;
+
+    display: flex;
+    align-items: center;
+    padding: 0 1rem;
+}
+
+header .box_img {
+    width: 6rem;
+    height: 6rem;
+}
+
+head .box_img img {
+    width: 50%;
+    height: 50%;
+    object-fit: cover;
+   
+}
