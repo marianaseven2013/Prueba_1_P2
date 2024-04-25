@@ -1,9 +1,8 @@
 header {
-    width: 100%;
+    width: 120rem;
     margin: auto;
-    height: 9rem;
+    height: 10rem;
     border-bottom: 1px solid gray;
-    background-color: red;
 
     display: flex;
     align-items: center;
